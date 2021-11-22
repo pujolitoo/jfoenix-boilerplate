@@ -22,7 +22,7 @@
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <JFXButton alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="110.0" style="-fx-background-color: rgba(35, 178, 255, 0.51)rgba(35, 178, 255, 0.51); frame.setLocation(dim.width/2-frame.getSize().width/2,                                         dim.height/2-frame.getSize().height/2): ;" text="Hello World!" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1">
+            <JFXButton alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="110.0" style="-fx-background-color: rgba(35, 178, 255, 0.51);" text="Hello World!" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1">
                <GridPane.margin>
                   <Insets />
                </GridPane.margin>
